@@ -1,4 +1,5 @@
 # Work-Day-scheduler
 
 
-<p><img align=“right” alt="gif" src=“https://github.com/irvensd/Work-Day-scheduler/blob/main/Work-day%20Scheduler.gif” width=“500” height=“320” /> </p>
+
+![Work-day Scheduler](https://user-images.githubusercontent.com/92906651/147148137-fd92d3c8-7786-4219-8ccc-0bbb820b2519.gif)
