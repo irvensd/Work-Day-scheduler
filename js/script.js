@@ -45,15 +45,15 @@ $(document).ready(function () {
     })
 })
     // Local storage Item 
-    $("#morning-9 .description").val(localStorage.getItem("morning-9"));
-    $("#morning-10 .description").val(localStorage.getItem("morning-10"));
-    $("#morning-11 .description").val(localStorage.getItem("morning-11"));
-    $("#afternoon-12 .description").val(localStorage.getItem("afternoon-12"));
-    $("#afternoon-13 .description").val(localStorage.getItem("afternoon-13"));
-    $("#afternoon-14 .description").val(localStorage.getItem("afternoon-14"));
-    $("#afternoon-15 .description").val(localStorage.getItem("afternoon-15"));
-    $("#afternoon-16 .description").val(localStorage.getItem("afternoon-16"));
-    $("#afternoon-17 .description").val(localStorage.getItem("afternoon-17"));
+$("#morning-9 .description").val(localStorage.getItem("morning-9"));
+$("#morning-10 .description").val(localStorage.getItem("morning-10"));
+$("#morning-11 .description").val(localStorage.getItem("morning-11"));
+$("#afternoon-12 .description").val(localStorage.getItem("afternoon-12"));
+$("#afternoon-13 .description").val(localStorage.getItem("afternoon-13"));
+$("#afternoon-14 .description").val(localStorage.getItem("afternoon-14"));
+$("#afternoon-15 .description").val(localStorage.getItem("afternoon-15"));
+$("#afternoon-16 .description").val(localStorage.getItem("afternoon-16"));
+$("#afternoon-17 .description").val(localStorage.getItem("afternoon-17"));
 
 
 timeTracker() 
